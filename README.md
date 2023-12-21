@@ -165,8 +165,11 @@ calc.html
 ~~~
 
 ## OUTPUT:
-![Screenshot (37)](https://github.com/Elamukilanguna/Calc/assets/144870462/92fd4adb-7acc-49f6-9e75-1d2ec3bdefa
+![Screenshot (37)](https://github.com/Elamukilanguna/Calc/assets/144870462/5c27115a-defb-48f6-ad6c-7daf334e3870)
+
 ![Screenshot (38)](https://github.com/Elamukilanguna/Calc/assets/144870462/dd89d2d0-607e-44cb-8c93-58565317c37c)
+
+
 
 
 ## RESULT:

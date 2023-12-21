@@ -165,8 +165,9 @@ calc.html
 ~~~
 
 ## OUTPUT:
-![Alt text](<Screenshot (37).png>)
-![Alt text](<Screenshot (38).png>)
+![Screenshot (37)](https://github.com/Elamukilanguna/Calc/assets/144870462/92fd4adb-7acc-49f6-9e75-1d2ec3bdefa
+![Screenshot (38)](https://github.com/Elamukilanguna/Calc/assets/144870462/dd89d2d0-607e-44cb-8c93-58565317c37c)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
